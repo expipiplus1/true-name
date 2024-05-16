@@ -1,7 +1,7 @@
 cabal-version:  3.0
 
 name:           true-name
-version:        0.1.0.4
+version:        0.2.0.0
 synopsis:       Template Haskell hack to violate module abstractions
 description:
     <http://tvtropes.org/pmwiki/pmwiki.php/Main/IKnowYourTrueName Knowing a true name gives one power over its owner>.
