@@ -66,7 +66,7 @@ decNames dec = case dec of
 #endif
 
 #if MIN_VERSION_template_haskell(2,8,0)
-    InfixD _ _ -> []
+    InfixD {} -> []
 #endif
 
 #if MIN_VERSION_template_haskell(2,12,0)
